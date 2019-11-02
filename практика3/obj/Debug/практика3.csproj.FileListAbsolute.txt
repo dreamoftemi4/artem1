@@ -1,0 +1,6 @@
+C:\Users\dremo\source\repos\практика3\практика3\bin\Debug\практика3.exe.config
+C:\Users\dremo\source\repos\практика3\практика3\bin\Debug\практика3.exe
+C:\Users\dremo\source\repos\практика3\практика3\bin\Debug\практика3.pdb
+C:\Users\dremo\source\repos\практика3\практика3\obj\Debug\практика3.csprojAssemblyReference.cache
+C:\Users\dremo\source\repos\практика3\практика3\obj\Debug\практика3.exe
+C:\Users\dremo\source\repos\практика3\практика3\obj\Debug\практика3.pdb
